@@ -11,7 +11,8 @@
   - Weekly
   - Monthly
   - Yearly
-
+- **Currency Support:** The application supports PLN, EUR, and USD, and automatically converts expenses to these currencies for comparison purposes (e.g., number of Red Bulls, percentage of an iPhone 15). Currently, the currency setting is fixed to PLN, and the option to switch currencies will be available in a future update.
+ 
 ## Technologies Used
 
 - **Vite:** Fast and modern build tool.
