@@ -15,13 +15,7 @@ declare global {
 ///FIREBASE SETUP
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBZFAO65T7tdu8ANxgU7WVNhDBNuTowyiw",
-  authDomain: "sacker-e5832.firebaseapp.com",
-  databaseURL: "https://sacker-e5832-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "sacker-e5832",
-  storageBucket: "sacker-e5832.appspot.com",
-  messagingSenderId: "790176915935",
-  appId: "1:790176915935:web:4eb85a22ee11dc1de9a46a"
+///config here
 }
 
 const app = initializeApp(firebaseConfig)
