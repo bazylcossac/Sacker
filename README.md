@@ -35,6 +35,10 @@ I plan to release the application on Google Play and am actively working towards
 
 This application is designed exclusively for mobile use.
 
+## Live Demo
+
+You can try out the application at [sacker.pl](https://sacker.pl).
+
 ## Screenshots
 
 Here are some screenshots of the application:
