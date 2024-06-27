@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#bar-section{
+ display: flex;
+ flex-direction: column;
+
+}
+
+#priceAndImageContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin:0px 10px 0px 40px;
+}
+
+#bar-container{
+    width:170px;
+    height: 10px;
+    background-color: lightgray;
+    margin:20px 0px 10px 0px;
+}
+
+#bar{
+    background-color: #7C47BE;
+    width: 0px;
+    height: 10px;
+     
+}
+
+#wholeBar{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding:5px;
+    border-bottom: 1px solid lightgray;
+}
+
+.chart text {
+    font-size: 13px;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+        input[type="number"]::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        input[type="number"] {
+            -moz-appearance: textfield;
+        }
