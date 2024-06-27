@@ -38,9 +38,11 @@ This application is designed exclusively for mobile use.
 
 Here are some screenshots of the application:
 
+<img src="https://github.com/bazylcossac/Sacker/assets/102479081/764fe649-3248-461a-90cc-59ab40dffae4" alt="Screenshot 1" width="300"/>
+<img src="https://github.com/bazylcossac/Sacker/assets/102479081/9f8234ca-c2db-4dc7-9c47-ef09e69deb7c" alt="Screenshot 2" width="300"/>
+<img src="https://github.com/bazylcossac/Sacker/assets/102479081/557ab641-bd26-43ea-8213-6add79e61555" alt="Screenshot 3" width="300"/>
 
-![sacker1](https://github.com/bazylcossac/Sacker/assets/102479081/764fe649-3248-461a-90cc-59ab40dffae4)
 
-![Sacker2](https://github.com/bazylcossac/Sacker/assets/102479081/9f8234ca-c2db-4dc7-9c47-ef09e69deb7c)
 
-![SackerLOGIN](https://github.com/bazylcossac/Sacker/assets/102479081/557ab641-bd26-43ea-8213-6add79e61555)
+
+
